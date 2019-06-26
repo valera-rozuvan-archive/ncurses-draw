@@ -1,4 +1,5 @@
 /* color-demo.c */
+/* https://www.linuxjournal.com/content/about-ncurses-colors-0 */
 
 #include <curses.h>
 #include <stdio.h>
